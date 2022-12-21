@@ -5,7 +5,7 @@ Send SMS with PYTHON via SMTP
 
 -Multiple or Single target SMS Send
 
--SMTP List format need to be like (smtp:port:id:pw:)
+-SMTP List format need to be like (smtp:port:user:pw:)
 
 -Emails format need to be (email@email.com)
 
